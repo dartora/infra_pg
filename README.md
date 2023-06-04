@@ -32,7 +32,7 @@ Before you begin, make sure you have the following requirements in place:
 4. Under the "Connection" tab, enter the following details:
    - Host name/address: `pg_container`
    - Port: `5432`
-   - Maintenance database: `projectManager`
+   - Maintenance database: `project`
    - Username: `root`
    - Password: `root`
 5. Click "Save" to add the server connection.
